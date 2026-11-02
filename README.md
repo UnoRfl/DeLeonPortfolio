@@ -1,6 +1,6 @@
 # Lil Romeo De Leon — Portfolio
 
-A responsive static portfolio for Lil Romeo De Leon, a BSIT-GD student at the University of Perpetual Help System DALTA. The visual direction carries the reference site's charcoal, warm-metal palette, clay surfaces, and page transitions into its own editorial split hero and inspiration gallery.
+A responsive static portfolio for Lil Romeo De Leon, a BSIT-GD student at the University of Perpetual Help System DALTA. The visual direction carries the reference site's charcoal, warm-metal palette, clay surfaces, and page transitions into its own landscape cover, editorial sections, and inspiration gallery.
 
 ## Pages
 
