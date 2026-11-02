@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Romeo monogram">
+  <defs>
+    <linearGradient id="gold" x1="12" y1="8" x2="52" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f1dfbd"/>
+      <stop offset="1" stop-color="#b79b6d"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#gold)" fill-rule="evenodd" d="M15 54V10h18c11 0 18 5.8 18 15.2 0 6.5-3.3 11-9.2 13.1L53 54H39L29 41h-3v13H15Zm11-23h6c5 0 7.5-1.6 7.5-5.6S37 20 32 20h-6v11Z"/>
+  <path d="M17 7h13" stroke="#f1dfbd" stroke-linecap="round" stroke-width="2" opacity=".7"/>
+</svg>
