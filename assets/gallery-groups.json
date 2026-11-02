@@ -1,0 +1,182 @@
+[
+  {
+    "category": "cars",
+    "refs": [
+      "commons:25039458",
+      "commons:60439112",
+      "commons:71803662",
+      "commons:130347173",
+      "commons:8300223",
+      "commons:68366804",
+      "commons:144659936"
+    ],
+    "titles": [
+      "Pagani at Geneva",
+      "Rally on the Mountain Road",
+      "Wiesmann Spyder Concept",
+      "Corvette on Display",
+      "Cunningham Special",
+      "Porsche 356 Roadster",
+      "Pagani Huayra Roadster"
+    ],
+    "alts": [
+      "Blue Pagani Huayra displayed under exhibition lights",
+      "Rally car speeding along a mountain road",
+      "A Wiesmann Spyder sports car at an auto show",
+      "A Chevrolet Corvette sports car on a city street",
+      "A classic Cunningham Special automobile",
+      "A Porsche 356 Roadster on display",
+      "Pagani Huayra BC Roadster at a motorsport event"
+    ]
+  },
+  {
+    "category": "scenic",
+    "refs": [
+      "commons:114076366",
+      "commons:84374049",
+      "commons:75648721",
+      "commons:93609441",
+      "commons:71326607",
+      "commons:163107705",
+      "commons:71376853"
+    ],
+    "titles": [
+      "Icebergs at Disko Bay",
+      "Castle Cove Lookout",
+      "Yellowstone Lake",
+      "Vang Vieng Reflections",
+      "Amalfi Coast",
+      "Fog over Lake Altaussee",
+      "Bâlea Lake"
+    ],
+    "alts": [
+      "Icebergs floating in the waters of Disko Bay, Greenland",
+      "A wide coastal view from Castle Cove Lookout in Australia",
+      "Snowy mountains across the frozen waters of Yellowstone Lake",
+      "Karst mountains reflecting in a lake near Vang Vieng, Laos",
+      "A scenic view across the Amalfi Coast",
+      "Fog moving over Lake Altaussee in Austria",
+      "Bâlea Lake surrounded by mountain peaks in Romania"
+    ]
+  },
+  {
+    "category": "skylines",
+    "refs": [
+      "commons:95206524",
+      "commons:1150291",
+      "commons:5116062",
+      "commons:82284212",
+      "commons:81619823",
+      "commons:142949336",
+      "commons:5662953"
+    ],
+    "titles": [
+      "Quebec City After Dark",
+      "West 45th Street",
+      "Midtown from Above",
+      "Hong Kong Harbour",
+      "Singapore at Dusk",
+      "Minato City at Night",
+      "Sydney at Dusk"
+    ],
+    "alts": [
+      "Quebec City's Price Building illuminated at night",
+      "New York City street scene under bright signs after dark",
+      "The Manhattan Midtown skyline viewed from above at night",
+      "Hong Kong Harbour with the city skyline at night",
+      "Singapore's Central Business District at dusk",
+      "Minato City, Tokyo skyline at night",
+      "Sydney skyline seen across the harbour at dusk"
+    ]
+  },
+  {
+    "category": "pc",
+    "refs": [
+      "commons:144681638",
+      "commons:109713557",
+      "commons:102466984",
+      "commons:139012517",
+      "commons:147760057",
+      "commons:147760019",
+      "commons:58856453"
+    ],
+    "titles": [
+      "The Astaroth Gaming PC",
+      "A Room of Gaming Computers",
+      "Gaming Rig with Bat Decals",
+      "Neon Gaming Room",
+      "Glass-Side Gaming Rig",
+      "Detailed Gaming Build",
+      "A Clean Desk Setup"
+    ],
+    "alts": [
+      "A custom Astaroth gaming PC setup",
+      "Several gaming computers arranged in a gaming room",
+      "A desktop gaming computer with bat decals",
+      "A neon-lit gaming room with a multi-monitor computer desk",
+      "A gaming computer with a glass side panel",
+      "Another custom-built gaming PC system",
+      "A minimal computer desk setup with monitor and accessories"
+    ]
+  },
+  {
+    "category": "rooms",
+    "refs": [
+      "commons:192968130",
+      "commons:182115395",
+      "commons:187101720",
+      "commons:195256271",
+      "commons:138344663",
+      "commons:62125506",
+      "commons:198126564"
+    ],
+    "titles": [
+      "Modern Room with Kitchen",
+      "Modern Bedroom in Neutral Tones",
+      "Living Room with an Outdoor View",
+      "Room Framed by Large Windows",
+      "Canopy Bed at Amantaka",
+      "Living Room in Natural Light",
+      "Villa Tugendhat Interior"
+    ],
+    "alts": [
+      "Modern open-plan living room and kitchen",
+      "A modern bedroom with layered lighting, warm neutral tones and clean lines",
+      "Cozy modern living room looking out to greenery",
+      "Contemporary living room framed by broad windows",
+      "A spacious contemporary resort bedroom with a wood canopy bed",
+      "Modern living room with a bright, natural interior",
+      "Living room interior at Villa Tugendhat in Brno"
+    ]
+  },
+  {
+    "category": "music",
+    "refs": [
+      "commons:49376756",
+      "commons:10728195",
+      "commons:20540761",
+      "commons:20540709",
+      "commons:41015609",
+      "commons:148347128",
+      "commons:37984352"
+    ],
+    "titles": [
+      "Band with a Full Backline",
+      "Instruments on Stage",
+      "Jazz at Starowce",
+      "Jazz Stage Close-Up",
+      "Vintage Studio Synthesizer",
+      "Rockfield Piano Room",
+      "Multi-Neck Electric Guitar"
+    ],
+    "alts": [
+      "A band with saxophone, guitar, drums, piano and other instruments",
+      "Musical instruments arranged on a concert stage",
+      "Jazz musicians performing with their instruments",
+      "Another live jazz performance seen from the stage",
+      "A vintage synthesizer at a music museum",
+      "A piano in Studio 2 at Rockfield Studios",
+      "A multi-neck electric guitar displayed in a music shop"
+    ]
+  }
+]
