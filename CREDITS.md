@@ -85,3 +85,7 @@ The portrait on the About page and in the navigation was provided for this portf
 ## Contact page image
 
 “Silver Porsche 911 GT3 RS” by Jonas Rhyner, used under the [Unsplash License](https://unsplash.com/license). [Original photo](https://unsplash.com/photos/silver-porsche-911-parked-on-street-during-daytime-89xt9EnPEe8).
+
+## Home cover image
+
+“Purple-lit Gaming Workstation” by Raviraj Singh Tomar, used under the [Unsplash License](https://unsplash.com/license). [Original photo](https://unsplash.com/photos/a-computer-desk-with-two-monitors-and-a-keyboard-rKFyEalchMc).

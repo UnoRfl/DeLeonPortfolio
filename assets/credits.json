@@ -1105,5 +1105,16 @@
     "page": "https://unsplash.com/photos/silver-porsche-911-parked-on-street-during-daytime-89xt9EnPEe8",
     "via": "Unsplash",
     "alt": "Close-up of a silver Porsche 911 GT3 RS, showing its headlight and carbon-fiber hood"
+  },
+  {
+    "file": "assets/images/home-cover.jpg",
+    "category": "homeCover",
+    "displayTitle": "Purple-lit Gaming Workstation",
+    "creator": "Raviraj Singh Tomar",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "page": "https://unsplash.com/photos/a-computer-desk-with-two-monitors-and-a-keyboard-rKFyEalchMc",
+    "via": "Unsplash",
+    "alt": "A purple-lit gaming workstation with a widescreen monitor and custom PC"
   }
 ]
