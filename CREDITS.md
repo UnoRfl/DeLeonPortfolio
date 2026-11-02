@@ -80,4 +80,8 @@ Seven original typography studies based on short motivational phrases. They were
 
 ## Portrait
 
-The portrait on the About page was retouched from an image supplied for this portfolio.
+The portrait on the About page and in the navigation was provided for this portfolio by Lil Romeo De Leon.
+
+## Contact page image
+
+“Silver Porsche 911 GT3 RS” by Jonas Rhyner, used under the [Unsplash License](https://unsplash.com/license). [Original photo](https://unsplash.com/photos/silver-porsche-911-parked-on-street-during-daytime-89xt9EnPEe8).
